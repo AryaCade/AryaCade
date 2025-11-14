@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! 👋 I'm Aryan
 
-<!--
-**AryaCade/AryaCade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Applications student and an aspiring **GenAI Developer**, **Agentic AI Engineer**, and **Data Scientist**.  
+I love experimenting with LLMs, building intelligent agents, designing AI-powered systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- A GenAI project using **LLMs + Agentic workflows**
+- Integrating AI models with real applications
+
+### 🌱 I’m currently learning
+- **Generative AI (LLMs, Prompt Engineering)**
+- **Agentic AI systems**
+- **LangChain & LangGraph**
+- **Model Context Protocol (MCP)**
+- **Python for AI Automation**
+
+### 🤝 I’m looking to collaborate on
+- GenAI and Agent-based apps  
+- Chatbot systems, assistants, AI agents  
+- LangChain / LangGraph small projects  
+- Backend + GenAI integrated applications  
+
+### 📫 How to reach me
+- **Email:** gurbaniaryan18@gmail.com 
+- **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/aryan-gurbani-276411232/)  
+
+---
+
+✨ _Thanks for visiting my profile!_
