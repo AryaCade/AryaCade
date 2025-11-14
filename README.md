@@ -16,12 +16,6 @@ I love experimenting with LLMs, building intelligent agents, designing AI-powere
 - **Model Context Protocol (MCP)**
 - **Python for AI Automation**
 
-### 🤝 I’m looking to collaborate on
-- GenAI and Agent-based apps  
-- Chatbot systems, assistants, AI agents  
-- LangChain / LangGraph small projects  
-- Backend + GenAI integrated applications  
-
 ### 📫 How to reach me
 - **Email:** gurbaniaryan18@gmail.com 
 - **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/aryan-gurbani-276411232/)  
